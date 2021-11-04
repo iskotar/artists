@@ -1,7 +1,7 @@
 ### Mini front end project: Music Artists
 
 #### Tools used:
-* React
+* Create React App
 * API: GraphQL
 * Apollo Client
 * React Bootstrap
